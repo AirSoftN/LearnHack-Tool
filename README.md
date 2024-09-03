@@ -26,10 +26,10 @@
 git clone https://github.com/AirSoftN/LearnHack-Tool.git
 cd LearnHack-Tool
 ```
-### 2. Install req
+### 2. Install requirements & run Tool
 
 ```bash
-
+pip install -r requirements.txt
 cd LearnHack-Tool
 python Learn.py
 ```
