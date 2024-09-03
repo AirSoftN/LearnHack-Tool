@@ -20,15 +20,16 @@
 ## التثبيت
 
 لتثبيت وتشغيل AirHackPro، اتبع الخطوات التالية:
-### 1. Install requirements
-
-```bash
-pip install -r requirements.txt
-```
-### 2. Clone the Repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/AirSoftN/LearnHack-Tool.git
+cd LearnHack-Tool
+```
+### 2. Install req
+
+```bash
+
 cd LearnHack-Tool
 python Learn.py
 ```
