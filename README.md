@@ -20,9 +20,14 @@
 ## التثبيت
 
 لتثبيت وتشغيل AirHackPro، اتبع الخطوات التالية:
-
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AirHackPro.git
-cd AirHackPro
+pip install -r requirements.txt
+```
+### 2. Clone the Repository
+
+```bash
+git clone https://github.com/AirSoftN/LearnHack-Tool.git
+cd LearnHack-Tool
+```
