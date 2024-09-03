@@ -30,4 +30,5 @@ pip install -r requirements.txt
 ```bash
 git clone https://github.com/AirSoftN/LearnHack-Tool.git
 cd LearnHack-Tool
+python Learn.py
 ```
