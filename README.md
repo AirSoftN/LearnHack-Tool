@@ -20,7 +20,7 @@
 ## التثبيت
 
 لتثبيت وتشغيل AirHackPro، اتبع الخطوات التالية:
-### 1. Clone the Repository
+### 1. Install requirements
 
 ```bash
 pip install -r requirements.txt
